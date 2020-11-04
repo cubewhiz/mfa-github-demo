@@ -1,3 +1,3 @@
 # mfa-github-demo
 
-some text
+some UPPERCASE text
