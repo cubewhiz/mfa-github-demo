@@ -7,5 +7,6 @@ some UPPERCASE text
 * on
 * my
 * list
+* !
 
 **bold** and _underlined_ text
